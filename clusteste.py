@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sb
 
 df = pd.read_csv("iris.csv")
-sb.pairplot(df)
-plt.show()
+#sb.pairplot(df, hue='situacao')
+#plt.show()
 
-X = np.array(df.drop('target',axis = 1))
+X = np.array(df.drop('situacao',axis = 1))
 
 from sklearn.cluster import KMeans
 
@@ -15,8 +15,20 @@ kmeans = KMeans(n_clusters=3, random_state=0)
 
 kmeans.fit(X)
 
-print(kmeans.labels_)
+def to_string(coluna):
+    retorno=""
+    if (coluna==1):
+        retorno="A"
+    else:
+        retorno="B"
+    return retorno
 
-df['K-classes'] = kmeans.labels_
+df['Klasses'] = kmeans.labels_
 
-sb.pairplot(df,hue='target')
+df2 = df.drop(columns="situacao")
+df2['target'] = df2['Klasses'].apply(to_string)
+df2 = df2.drop(columns="Klasses")
+
+
+sb.pairplot(df2,hue='target')
+plt.show()
