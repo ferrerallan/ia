@@ -3,10 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sb
 
-df = pd.read_csv("iris.csv")
-#sb.pairplot(df, hue='situacao')
-#plt.show()
-
+df = pd.read_csv("internacaoexcede.csv")
+sb.pairplot(df, hue='excedeu')
+plt.show()
+'''
 X = np.array(df.drop('situacao',axis = 1))
 
 from sklearn.cluster import KMeans
@@ -30,5 +30,6 @@ df2['target'] = df2['Klasses'].apply(to_string)
 df2 = df2.drop(columns="Klasses")
 
 
-sb.pairplot(df2,hue='target')
-plt.show()
+#sb.pairplot(df2,hue='target')
+#plt.show()
+'''
