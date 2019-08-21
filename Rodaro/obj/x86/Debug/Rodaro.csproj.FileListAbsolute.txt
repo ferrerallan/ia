@@ -1,0 +1,9 @@
+E:\Allan\Rodaro\bin\x86\Debug\Rodaro.exe
+E:\Allan\Rodaro\bin\x86\Debug\Rodaro.pdb
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.csprojResolveAssemblyReference.cache
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.Form1.resources
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.Properties.Resources.resources
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.csproj.GenerateResource.Cache
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.csproj.CoreCompileInputs.cache
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.exe
+E:\Allan\Rodaro\obj\x86\Debug\Rodaro.pdb

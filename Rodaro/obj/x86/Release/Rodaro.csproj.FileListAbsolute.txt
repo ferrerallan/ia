@@ -1,0 +1,6 @@
+E:\Allan\Rodaro\bin\x86\Release\Rodaro.exe
+E:\Allan\Rodaro\obj\x86\Release\Rodaro.Form1.resources
+E:\Allan\Rodaro\obj\x86\Release\Rodaro.Properties.Resources.resources
+E:\Allan\Rodaro\obj\x86\Release\Rodaro.csproj.GenerateResource.Cache
+E:\Allan\Rodaro\obj\x86\Release\Rodaro.csproj.CoreCompileInputs.cache
+E:\Allan\Rodaro\obj\x86\Release\Rodaro.exe
