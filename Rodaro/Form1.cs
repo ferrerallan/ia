@@ -13,7 +13,7 @@ namespace Rodaro
         List<int> ListaLidos = new List<int>();
         DataTable dtVertical = new DataTable();
         List<int> Linha1 = new List<int>() { 1,4,7,10,13,16,19,22,25,28,31,34};
-        List<int> Linha2 = new List<int>() { 2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32 };
+        List<int> Linha2 = new List<int>() { 2, 5, 8, 11, 14, 17, 20, 23, 26, 29, 32,35 };
         List<int> Linha3 = new List<int>() { 3,6,9,12,15,18,21,24,27,30,33,36};
 
         List<int> Coluna1 = new List<int>() { 1,2,3,4,5,6,7,8,9,10,11,12};

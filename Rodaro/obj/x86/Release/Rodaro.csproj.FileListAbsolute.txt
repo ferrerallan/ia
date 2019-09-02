@@ -4,3 +4,10 @@ E:\Allan\Rodaro\obj\x86\Release\Rodaro.Properties.Resources.resources
 E:\Allan\Rodaro\obj\x86\Release\Rodaro.csproj.GenerateResource.Cache
 E:\Allan\Rodaro\obj\x86\Release\Rodaro.csproj.CoreCompileInputs.cache
 E:\Allan\Rodaro\obj\x86\Release\Rodaro.exe
+C:\Allan\sistemas\ia\Rodaro\bin\x86\Release\Rodaro.exe
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.csprojAssemblyReference.cache
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.Form1.resources
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.Properties.Resources.resources
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.csproj.GenerateResource.cache
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.csproj.CoreCompileInputs.cache
+C:\Allan\sistemas\ia\Rodaro\obj\x86\Release\Rodaro.exe
