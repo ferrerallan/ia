@@ -1,0 +1,12 @@
+Este dataset extraiu informações de internações com pacientes do HCFAMEMA no periodo dos últimos 90 dias.
+
+dat_hora_internacao: data e hora da internação do paciente
+sexo: genero do paciente
+prestadora: equipe que fez o ultimo atendimento
+ala: local fisico do paciente internado
+UTI: indica se o local é refente a uma unidade de tratamento intensivo
+dias_permanencia: quantidade de dias que o paciente ficou internado
+cid_principal_entrada: principal no momento da internação
+cid_entrada_secundario: cid secundario no momento da internação
+cid_final_principal: cid principal no final da internação
+cid_final_secundario: cid secundario ao final da internação
